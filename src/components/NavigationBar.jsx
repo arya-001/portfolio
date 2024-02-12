@@ -82,6 +82,8 @@ const NavigationBar = () => {
                 href={href}
                 className="flex justify-between items-center w-full text-white mx-1"
                 download={download}
+                target="_blank"
+                rel="noreferrer"
               >
                 {" "}
                 {child}
