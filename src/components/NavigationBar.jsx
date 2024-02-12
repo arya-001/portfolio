@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import { IoIosMail } from "react-icons/io";
-import {BsFillPersonLinesFill   } 
-from 'react-icons/bs'
+//import { IoIosMail } from "react-icons/io";
+//import {BsFillPersonLinesFill   } 
+//from 'react-icons/bs'
 import {Link} from "react-scroll"
 
 const NavigationBar = () => {
