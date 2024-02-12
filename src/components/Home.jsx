@@ -11,7 +11,7 @@ const Home = () => {
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-3xl sm:text-6xl font-bold text-white">I'm a Frontend Developer</h2>
+          <h2 className="text-3xl sm:text-6xl font-bold text-white">I'm a Software Developer</h2>
           <p className=" text-gray-500 py-3 max-w-md">
             Currently, I love to work on Mobile Application using technologies
             like Flutter and Web Applications using React, Tailwind with
