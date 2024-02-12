@@ -9,7 +9,7 @@ const Home = () => {
       name="home"
       className="h-screen w-full bg-gradient-to-b from-black to-slate-800 text-white"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row ">
+      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-2 md:flex-row ">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-3xl sm:text-6xl font-bold text-white">I'm a Software Developer</h2>
           <p className=" text-gray-500 py-3 max-w-md">
@@ -26,11 +26,11 @@ const Home = () => {
             </Link>
           </div>
         </div>
-        <div>
+        <div className=" justify-center mx-10 items-center">
           <img
             src={arya2}
             alt="my profile"
-            className="rounded-xl mx-auto w-2/3 md: w-full"
+            className="rounded-xl mx-auto md:w-3/4"
           />
         </div>
       </div>
